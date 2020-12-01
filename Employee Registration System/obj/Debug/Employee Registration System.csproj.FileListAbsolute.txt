@@ -1,0 +1,25 @@
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\Employee Registration System.exe.config
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\Employee Registration System.exe
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\Employee Registration System.pdb
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.csprojAssemblyReference.cache
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\obj\Debug\Employee_Registration_System.FrmMain.resources
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\obj\Debug\Employee_Registration_System.Properties.Resources.resources
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.csproj.GenerateResource.cache
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.csproj.CoreCompileInputs.cache
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.exe
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.pdb
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.exe.config
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\MySql.Data.dll
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\Google.Protobuf.dll
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\Zstandard.Net.dll
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\Renci.SshNet.dll
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\System.Buffers.dll
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\System.Memory.dll
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\bin\Debug\MySql.Data.xml
+D:\Documents\[Mluc Files]\CIT\Event Driven Programming\Activities\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.csproj.CopyComplete
